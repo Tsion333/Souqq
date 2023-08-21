@@ -1,0 +1,81 @@
+
+[
+    {
+      "id": 0,
+      "name": "Enat Bank",
+      "category": "NOP",
+      "imageUrl": "https://financialallianceforwomen.org/wp-content/uploads/2020/05/logo-for-profile.png"
+      
+    },
+    {
+      "id": 1,
+      "name": "Awash Bank",
+      "category": "Men",
+    
+      "imageUrl": "https://addisbiz.com/wp-content/uploads/Awash-Bank-SC-Ethiopia-Logo-EPS-Capital-Shareholders-Profit-Financial-Statements-627x360.png"
+      
+    },
+    {
+      "id": 2,
+      "name": "Wegagen Bank",
+      "category": "Men",
+      "imageUrl": "https://allaboutethio.com/images/wegagen-bank-logo-banks-in-ethiopia.jpg"
+      
+    },
+    {
+      "id": 3,
+      "name": "Commercial Bank of Ethiopia",
+      "category": "Men",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/CBE_SA.png"
+     
+    },
+    {
+      "id": 4,
+      "name": "Dashen Bank",
+      "category": "men",
+      "imageUrl": "https://dashenbanksc.com/wp-content/uploads/cropped-Dashen-Bank-sc-Logo-Square.jpg"
+      
+    },
+    {
+      "id": 5,
+      "name": "Buna International Bank",
+      "category": "Men",
+      "imageUrl": "https://allaboutethio.com/images/bunna-international-bank-logo-banks-in-ethiopia.jpg"
+     
+    },
+    {
+      "id": 6,
+      "name": "Cooperative Bank of Oromia",
+      "category": "Men",
+      "imageUrl": "https://coopbankoromia.com.et/wp-content/uploads/2021/12/Cooperative_Bank_of_Oromia.png"
+     
+    },
+    {
+      "id": 7,
+      "name": "Zemen Bank",
+      "category": "Men",
+      "imageUrl": "https://www.cr2.com/wp-content/uploads/2020/10/zemen-bank.jpg"
+      
+    },
+    {
+      "id": 8,
+      "name": "United Bank of Ethiopia",
+      "category": "Men",
+      "imageUrl": "https://allaboutethio.com/images/united-bank-logo-banks-in-ethiopia.jpg"
+     
+    },
+    {
+      "id": 9,
+      "name": "Ambesa International Bank",
+      "category": "Men",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Uu4ZpqCDL._AC_UL320_.jpg"
+     
+    },
+    {
+      "id": 10,
+      "name": "Nib International Bank",
+      "category": "Men",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzTuwsM5f7pNkPgLlW-eXytO55IPIjdFPdCLHIlNTt6y3nq062NngmjpSbqW6Pf20vkg&usqp=CAU"
+     
+    }
+  ]
